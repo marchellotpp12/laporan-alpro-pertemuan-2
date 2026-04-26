@@ -1,0 +1,12 @@
+1+1 =
+Jawab: 2
+Jawaban benar!
+Bendera Indonesia?
+Jawab: merah putih
+Jawaban benar!
+Kota gudeg adalah:
+Jawab: yogya
+Jawaban salah!
+Komponen PC untuk penyimpanan file adalah...
+Jawab: HARDDISK
+Jawaban benar!
